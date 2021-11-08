@@ -35,6 +35,7 @@
     "jest": ">= 27"
   },
   "typescriptPeerDependencies": {
+    "@typescript-eslint/parser": ">= 5",
     "@typescript-eslint/eslint-plugin": ">= 5",
     "eslint-config-standard-with-typescript": ">= 21"
   },
