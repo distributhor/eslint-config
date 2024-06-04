@@ -1,7 +1,7 @@
 {
   "name": "eslint-config",
   "version": "1.0.0",
-  "description": "Standard JS & TS ESLint config",
+  "description": "ESLint config based on StandardJS",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
